@@ -1,0 +1,16 @@
+/cache
+/public
+.idea
+syncFolders*
+/branches
+/config
+/description
+/HEAD
+/hooks
+/info
+/objects
+/refs
+/index
+/logs
+webhook.txt
+.hugo_build.lock
